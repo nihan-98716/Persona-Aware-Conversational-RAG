@@ -6,7 +6,7 @@ This project builds an end-to-end local RAG system over a CSV of conversations. 
 
 - Loom demo: https://www.loom.com/share/2cac838014d14915907ff5ef42264614
 - GitHub repo: add the public GitHub URL after pushing this folder
-- Hosted chatbot: https://persona-aware-conversational-rag-anoop.netlify.app
+- Hosted chatbot: https://persona-aware-conversational-rag.netlify.app
 - Local chatbot: `http://localhost:8888`
 
 ## What This Implements

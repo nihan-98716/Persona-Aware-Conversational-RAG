@@ -12,3 +12,19 @@
    │                                                   │
    ╰───────────────────────────────────────────────────╯
 
+Request from ::1: POST /.netlify/functions/chat
+Response with status 200 in 1431 ms.
+Request from ::1: POST /.netlify/functions/chat
+Response with status 200 in 1335 ms.
+Request from ::1: POST /.netlify/functions/chat
+Response with status 200 in 1444 ms.
+Request from ::1: POST /.netlify/functions/chat
+Response with status 200 in 2788 ms.
+Request from ::1: POST /.netlify/functions/chat
+Response with status 200 in 1939 ms.
+Request from ::1: POST /.netlify/functions/chat
+Response with status 200 in 1541 ms.
+Request from ::1: POST /.netlify/functions/chat
+Response with status 200 in 1629 ms.
+Request from ::1: POST /.netlify/functions/chat
+Response with status 200 in 1525 ms.
