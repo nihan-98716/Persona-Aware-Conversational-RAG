@@ -276,21 +276,6 @@ What does the user like to do for fun?
 
 Switch between `Persona: User 1` and `Persona: User 2` to verify speaker-specific behavior.
 
-## Screenshots and Demo
-
-Demo video:
-
-- https://www.loom.com/share/2cac838014d14915907ff5ef42264614
-
-Recommended screenshots for submission:
-
-- Chatbot answering `What kind of person is this user?`
-- Chatbot answering `What are their habits?`
-- Chatbot answering `How do they talk?`
-- `app/data/persona.json`
-- `app/data/topics.json`
-- `app/data/checkpoints_100.json`
-
 ## Limitations
 
 - This project intentionally avoids external LLM APIs. Answers are generated with local rules, sparse TF-IDF retrieval, extracted facts, and structured persona data.
