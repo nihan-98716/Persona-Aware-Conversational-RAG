@@ -1,0 +1,1799 @@
+{
+  "default_speaker": "User 1",
+  "speakers": [
+    "User 1",
+    "User 2"
+  ],
+  "persona_by_speaker": {
+    "User 1": {
+      "habits": [
+        {
+          "habit": "to cook",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            33,
+            160,
+            420,
+            879,
+            1219,
+            1347,
+            1542,
+            1805,
+            2140,
+            2170
+          ]
+        },
+        {
+          "habit": "trying new foods",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            95,
+            793,
+            2078,
+            8603,
+            11936,
+            12698,
+            16446,
+            20062,
+            34749,
+            56049
+          ]
+        },
+        {
+          "habit": "books",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            97,
+            14133,
+            25425,
+            26252,
+            37608,
+            61851,
+            65671,
+            91898,
+            96979,
+            108802
+          ]
+        },
+        {
+          "habit": "gardening",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            107,
+            1331,
+            3701,
+            5756,
+            7360,
+            8831,
+            16105,
+            18667,
+            19678,
+            20612
+          ]
+        },
+        {
+          "habit": "working with kids",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            281,
+            8374,
+            8624,
+            10451,
+            13023,
+            55034,
+            65751,
+            65991,
+            67449,
+            77214
+          ]
+        },
+        {
+          "habit": "to go hiking and camping",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            387,
+            15694,
+            23234,
+            23571,
+            36035,
+            47077,
+            54464,
+            56017,
+            57680,
+            59543
+          ]
+        },
+        {
+          "habit": "taking walks",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            428,
+            28809,
+            53503,
+            54348,
+            57120,
+            66673,
+            71443,
+            81710,
+            112275,
+            148977
+          ]
+        },
+        {
+          "habit": "to bake",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            441,
+            1714,
+            3381,
+            5161,
+            9587,
+            10761,
+            12411,
+            12551,
+            12812,
+            14709
+          ]
+        },
+        {
+          "habit": "to go hiking",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            445,
+            1244,
+            11698,
+            12425,
+            13177,
+            14378,
+            15301,
+            24257,
+            28298,
+            28587
+          ]
+        },
+        {
+          "habit": "cooking",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            519,
+            1582,
+            5567,
+            7800,
+            9841,
+            11600,
+            12632,
+            12842,
+            19716,
+            30250
+          ]
+        },
+        {
+          "habit": "being outdoors",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            552,
+            10086,
+            12737,
+            19564,
+            32673,
+            32807,
+            33763,
+            42187,
+            44229,
+            49679
+          ]
+        },
+        {
+          "habit": "fishing",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            633,
+            1443,
+            3004,
+            4390,
+            17706,
+            18054,
+            29481,
+            30636,
+            35236,
+            38032
+          ]
+        },
+        {
+          "habit": "music",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            646,
+            4785,
+            6003,
+            7292,
+            8286,
+            8568,
+            12772,
+            14102,
+            17427,
+            19880
+          ]
+        },
+        {
+          "habit": "trying new recipes",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            656,
+            4580,
+            22745,
+            40526,
+            56284,
+            65384,
+            69833,
+            70535,
+            72969,
+            87820
+          ]
+        },
+        {
+          "habit": "reading and writing",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            665,
+            29051,
+            48734,
+            51943,
+            59827,
+            111118,
+            115533,
+            127085,
+            128845,
+            185282
+          ]
+        },
+        {
+          "habit": "to read all kinds of books",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            667,
+            6700,
+            6959,
+            14219,
+            14502,
+            15424,
+            18459,
+            25034,
+            25785,
+            27325
+          ]
+        },
+        {
+          "habit": "rap music",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            692,
+            74783,
+            95344,
+            106485,
+            165594,
+            169662
+          ]
+        },
+        {
+          "habit": "to run",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            714,
+            2359,
+            5403,
+            21381,
+            23489,
+            39695,
+            39799,
+            42878,
+            43714,
+            45600
+          ]
+        },
+        {
+          "habit": "to read books",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            778,
+            5284,
+            13937,
+            14715,
+            21455,
+            29765,
+            34191,
+            34491,
+            53609,
+            53719
+          ]
+        },
+        {
+          "habit": "to read",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            855,
+            885,
+            1207,
+            2826,
+            3404,
+            3531,
+            3777,
+            3875,
+            4251,
+            4340
+          ]
+        },
+        {
+          "habit": "to hike",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            951,
+            2829,
+            5008,
+            9370,
+            27468,
+            48498,
+            59840,
+            59905,
+            61057,
+            65150
+          ]
+        },
+        {
+          "habit": "playing music",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            964,
+            4479,
+            4670,
+            8570,
+            27782,
+            27996,
+            62112,
+            63975,
+            81111,
+            87058
+          ]
+        },
+        {
+          "habit": "classical music",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            968,
+            22883,
+            40106,
+            43788,
+            46024,
+            53426,
+            58129,
+            63588,
+            67577,
+            67703
+          ]
+        },
+        {
+          "habit": "doing that",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1085,
+            44089,
+            51534,
+            126514
+          ]
+        },
+        {
+          "habit": "to sing",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1112,
+            3549,
+            4455,
+            6531,
+            7283,
+            15547,
+            17780,
+            22098,
+            24141,
+            24628
+          ]
+        },
+        {
+          "habit": "the music video",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1158,
+            63962,
+            66045,
+            68696,
+            118392,
+            134678,
+            137164,
+            152674
+          ]
+        },
+        {
+          "habit": "to go to the movies",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1183,
+            29709,
+            40484,
+            46972,
+            47810,
+            57184,
+            64509,
+            75714,
+            80739,
+            82078
+          ]
+        },
+        {
+          "habit": "a lot of different movies",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1187,
+            22319,
+            62738,
+            100674,
+            123383,
+            125079,
+            166472,
+            180197
+          ]
+        },
+        {
+          "habit": "making homemade pasta",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1256,
+            61426,
+            125563,
+            154108
+          ]
+        },
+        {
+          "habit": "reading",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1284,
+            5631,
+            8140,
+            18083,
+            19591,
+            19943,
+            21574,
+            26107,
+            28569,
+            30051
+          ]
+        }
+      ],
+      "personal_facts": [
+        {
+          "fact": "children",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            55,
+            7325,
+            15080,
+            42327,
+            95826,
+            130125
+          ]
+        },
+        {
+          "fact": "software engineer",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            89,
+            556,
+            766,
+            1503,
+            3848,
+            4315,
+            6589,
+            8922,
+            10410,
+            10994
+          ]
+        },
+        {
+          "fact": "barista",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            97,
+            7753,
+            17018,
+            24423,
+            40063,
+            41199,
+            98430,
+            105597,
+            119811,
+            153390
+          ]
+        },
+        {
+          "fact": "stay-at-home mom",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            154,
+            5395,
+            6751,
+            9541,
+            10794,
+            14966,
+            15600,
+            16306,
+            17754,
+            40030
+          ]
+        },
+        {
+          "fact": "teacher",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            279,
+            1604,
+            2036,
+            3159,
+            4685,
+            7306,
+            7616,
+            8074,
+            8566,
+            9490
+          ]
+        },
+        {
+          "fact": "student",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            625,
+            19487,
+            19902,
+            28236,
+            43886,
+            48331,
+            56077,
+            70994,
+            75467,
+            75851
+          ]
+        },
+        {
+          "fact": "big fan of historical fiction",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            780,
+            51426,
+            60958,
+            118033,
+            125596,
+            166962,
+            180384
+          ]
+        },
+        {
+          "fact": "artist",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1011,
+            13229,
+            14088,
+            38270,
+            44900,
+            93953,
+            98503,
+            102214,
+            107830,
+            112191
+          ]
+        },
+        {
+          "fact": "a grocery store",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1148,
+            20508,
+            21535,
+            64908,
+            108013,
+            136362,
+            158814,
+            185792
+          ]
+        },
+        {
+          "fact": "doctor",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1169,
+            18645,
+            61525,
+            69540,
+            87865,
+            90919,
+            113161,
+            135575,
+            140792
+          ]
+        },
+        {
+          "fact": "big fan of the eagles",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1191,
+            50425
+          ]
+        },
+        {
+          "fact": "potter",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1619,
+            2539,
+            46795,
+            52674,
+            78433,
+            119797,
+            177847
+          ]
+        },
+        {
+          "fact": "accountant",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1685,
+            16274,
+            71918,
+            79521,
+            96056,
+            102624,
+            157952,
+            160088,
+            169010,
+            184531
+          ]
+        },
+        {
+          "fact": "bit distant from my family",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1771,
+            180287
+          ]
+        },
+        {
+          "fact": "security guard",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1799,
+            129548,
+            133940,
+            156481
+          ]
+        },
+        {
+          "fact": "california now",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1844,
+            96413
+          ]
+        },
+        {
+          "fact": "academia at a local university",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1874,
+            25116,
+            102091
+          ]
+        },
+        {
+          "fact": "writer who loves to tell stories about my",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1936,
+            121067
+          ]
+        },
+        {
+          "fact": "party planner",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            2094,
+            9064,
+            30815,
+            74186,
+            146124,
+            147300,
+            150895,
+            151676,
+            166594
+          ]
+        },
+        {
+          "fact": "aspiring singer",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            2473,
+            56655
+          ]
+        },
+        {
+          "fact": "big fan of the golden state warriors",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            2782,
+            46701,
+            103255,
+            132948,
+            134074,
+            146480
+          ]
+        },
+        {
+          "fact": "welder",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            2869,
+            65626,
+            68921,
+            95313,
+            98926,
+            187868
+          ]
+        },
+        {
+          "fact": "lawyer",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            3018,
+            10183,
+            13099,
+            15437,
+            63352,
+            64269,
+            84112,
+            91795,
+            148462,
+            168367
+          ]
+        },
+        {
+          "fact": "introvert",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            3048,
+            37816,
+            57118,
+            77613,
+            129073,
+            149009
+          ]
+        },
+        {
+          "fact": "passionate educator who enjoys bringing t",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            3139,
+            111470,
+            137820
+          ]
+        },
+        {
+          "fact": "alex",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            3169,
+            10359,
+            35120,
+            45513,
+            45610,
+            48238,
+            67285,
+            75214,
+            88955,
+            98280
+          ]
+        },
+        {
+          "fact": "writer myself",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            3233,
+            131702,
+            186180
+          ]
+        },
+        {
+          "fact": "game of thrones fan who worries about my",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            3285,
+            110681
+          ]
+        },
+        {
+          "fact": "sarah and i'm from the midwest",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            3337
+          ]
+        },
+        {
+          "fact": "bit nervous",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            3360,
+            169598,
+            184527
+          ]
+        }
+      ],
+      "personality_traits": [
+        {
+          "trait": "supportive",
+          "confidence": 0.9,
+          "evidence_msg_ids": [
+            13,
+            31,
+            83,
+            105,
+            113,
+            128,
+            136,
+            197,
+            225,
+            227
+          ]
+        },
+        {
+          "trait": "enthusiastic",
+          "confidence": 0.88,
+          "evidence_msg_ids": [
+            49,
+            57,
+            248,
+            405,
+            417,
+            424,
+            583,
+            661,
+            692,
+            1090
+          ]
+        }
+      ],
+      "communication_style": {
+        "avg_length": "short-medium",
+        "tone": [
+          "energetic",
+          "curious"
+        ],
+        "emoji_usage": "low",
+        "evidence_msg_ids": [
+          1,
+          3,
+          7,
+          9,
+          11,
+          13,
+          15,
+          17,
+          19,
+          21,
+          23,
+          25,
+          29,
+          31,
+          33,
+          35,
+          43,
+          45,
+          47,
+          49
+        ]
+      },
+      "method": {
+        "approach": "candidate-then-verify",
+        "rules": [
+          "Keep persona entries that repeat across messages or have high explicit confidence",
+          "Each persona item must include evidence_msg_ids",
+          "Only messages from User 1 are used for persona extraction"
+        ]
+      }
+    },
+    "User 2": {
+      "habits": [
+        {
+          "habit": "reading",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            32,
+            58,
+            4533,
+            5728,
+            7949,
+            9534,
+            9815,
+            12176,
+            12905,
+            16623
+          ]
+        },
+        {
+          "habit": "books",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            98,
+            26685,
+            61852,
+            62647,
+            108801,
+            114740,
+            152137,
+            154856,
+            155911,
+            167544
+          ]
+        },
+        {
+          "habit": "gardening",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            106,
+            596,
+            3079,
+            18719,
+            18936,
+            20243,
+            22796,
+            23674,
+            24964,
+            25268
+          ]
+        },
+        {
+          "habit": "to read",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            161,
+            467,
+            664,
+            884,
+            1018,
+            1285,
+            1705,
+            2037,
+            2825,
+            3530
+          ]
+        },
+        {
+          "habit": "to read all sorts of books",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            163,
+            886,
+            8479,
+            21010,
+            59830,
+            66909,
+            79381,
+            106833,
+            110012,
+            117917
+          ]
+        },
+        {
+          "habit": "being outdoors",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            177,
+            2834,
+            3962,
+            15415,
+            20292,
+            32683,
+            43405,
+            50017,
+            55697,
+            56619
+          ]
+        },
+        {
+          "habit": "spending time with my dog",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            186,
+            10814,
+            20387,
+            38622,
+            41388,
+            44796,
+            47747,
+            49167,
+            62124,
+            67191
+          ]
+        },
+        {
+          "habit": "to dance",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            222,
+            1611,
+            7137,
+            7587,
+            11193,
+            28427,
+            33389,
+            36934,
+            39052,
+            46543
+          ]
+        },
+        {
+          "habit": "helping people",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            292,
+            2027,
+            3292,
+            4724,
+            10791,
+            13413,
+            15676,
+            19456,
+            20519,
+            27160
+          ]
+        },
+        {
+          "habit": "helping people reach their fitness goals",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            323,
+            2354,
+            86702,
+            109601,
+            135544
+          ]
+        },
+        {
+          "habit": "walking my dog",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            337,
+            3866,
+            13568,
+            28630,
+            43908,
+            77783,
+            138128
+          ]
+        },
+        {
+          "habit": "to go hiking",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            375,
+            9150,
+            12941,
+            19723,
+            20811,
+            23235,
+            34964,
+            37052,
+            38067,
+            38732
+          ]
+        },
+        {
+          "habit": "talking about books",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            452,
+            108500,
+            121090,
+            121532,
+            125892,
+            162591,
+            169428,
+            171519,
+            185927
+          ]
+        },
+        {
+          "habit": "to read all kinds of books",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            471,
+            2635,
+            4254,
+            16415,
+            17805,
+            31685,
+            32301,
+            32873,
+            33359,
+            40342
+          ]
+        },
+        {
+          "habit": "to cook all kinds of food",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            522,
+            3031,
+            26320,
+            70817,
+            83814,
+            91324,
+            102433,
+            111567,
+            117859,
+            125560
+          ]
+        },
+        {
+          "habit": "making pasta dishes",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            526,
+            9554,
+            10101,
+            11601,
+            13376,
+            22183,
+            26890,
+            28498,
+            30251,
+            31736
+          ]
+        },
+        {
+          "habit": "to read and watch movies",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            715,
+            22316,
+            40639,
+            50158,
+            58148,
+            59916,
+            81118,
+            115848,
+            121764,
+            127257
+          ]
+        },
+        {
+          "habit": "that book",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            717,
+            13481,
+            15883,
+            17546,
+            22349,
+            25074,
+            28744,
+            41295,
+            43527,
+            47265
+          ]
+        },
+        {
+          "habit": "to read a variety of books",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            779,
+            3312,
+            3407,
+            14665,
+            18478,
+            19583,
+            22264,
+            24528,
+            27562,
+            28331
+          ]
+        },
+        {
+          "habit": "playing the guitar",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            805,
+            2941,
+            28406,
+            39859,
+            75013,
+            142783,
+            147166,
+            155135
+          ]
+        },
+        {
+          "habit": "to play a lot of different kinds of music",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            811,
+            19881,
+            20096,
+            54495,
+            69863,
+            75518,
+            103992,
+            107885,
+            136841,
+            175665
+          ]
+        },
+        {
+          "habit": "to read a variety of genres",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            856,
+            26453,
+            49150,
+            110479,
+            135366,
+            148997,
+            166431
+          ]
+        },
+        {
+          "habit": "playing music",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            963,
+            16952,
+            23289,
+            37871,
+            69359,
+            90748,
+            107423,
+            115453,
+            117743,
+            143754
+          ]
+        },
+        {
+          "habit": "to travel",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            996,
+            4020,
+            4651,
+            5812,
+            6314,
+            7730,
+            7891,
+            7955,
+            10806,
+            11274
+          ]
+        },
+        {
+          "habit": "to read a variety of things",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1020,
+            5788,
+            25418,
+            25448,
+            27961,
+            32108,
+            32167,
+            63822,
+            85256,
+            106305
+          ]
+        },
+        {
+          "habit": "watching sports",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1066,
+            71375,
+            147623,
+            185218
+          ]
+        },
+        {
+          "habit": "to sing",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1113,
+            2593,
+            4454,
+            8586,
+            16017,
+            19048,
+            20323,
+            22097,
+            24627,
+            41873
+          ]
+        },
+        {
+          "habit": "working out",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1151,
+            1488,
+            4259,
+            14763,
+            28212,
+            33560,
+            33667,
+            54581,
+            56947,
+            58704
+          ]
+        },
+        {
+          "habit": "all kinds of music",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1222,
+            8546,
+            9510,
+            16341,
+            21519,
+            21551,
+            23983,
+            24748,
+            27086,
+            27862
+          ]
+        },
+        {
+          "habit": "to garden",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1330,
+            5878,
+            8357,
+            11158,
+            32525,
+            33608,
+            41174,
+            46581,
+            55027,
+            62822
+          ]
+        }
+      ],
+      "personal_facts": [
+        {
+          "fact": "nurse",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            90,
+            1012,
+            1798,
+            1905,
+            3158,
+            3942,
+            3968,
+            4812,
+            5361,
+            9318
+          ]
+        },
+        {
+          "fact": "a city",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            179,
+            128329
+          ]
+        },
+        {
+          "fact": "cake decorator",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            438,
+            146827
+          ]
+        },
+        {
+          "fact": "chef",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            506,
+            3986,
+            20827,
+            45833,
+            48345,
+            75189,
+            76364,
+            81176,
+            101476,
+            109216
+          ]
+        },
+        {
+          "fact": "john",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            514,
+            15957,
+            19367,
+            25597,
+            37116,
+            87619,
+            88956,
+            145972
+          ]
+        },
+        {
+          "fact": "woman who worries about the judgment of m",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            626,
+            32896
+          ]
+        },
+        {
+          "fact": "musician",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            645,
+            3172,
+            7057,
+            8567,
+            16347,
+            18349,
+            18437,
+            21195,
+            23739,
+            37184
+          ]
+        },
+        {
+          "fact": "only child",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            865,
+            17610,
+            24882,
+            43281,
+            66788,
+            77534,
+            78972,
+            85295,
+            114535,
+            141369
+          ]
+        },
+        {
+          "fact": "hannah",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1010,
+            66449,
+            128602,
+            135572
+          ]
+        },
+        {
+          "fact": "a doctor",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1141,
+            10278,
+            80509,
+            138309,
+            169192,
+            176754,
+            188065
+          ]
+        },
+        {
+          "fact": "bit of a loner",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1204,
+            3047,
+            8911,
+            22007,
+            28279,
+            53057,
+            80427,
+            141873,
+            190813
+          ]
+        },
+        {
+          "fact": "stay at home mom",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1354,
+            8956,
+            11015,
+            14867,
+            21886,
+            29380,
+            40808,
+            53266,
+            56605,
+            74102
+          ]
+        },
+        {
+          "fact": "dancer and my spouse is a weather forecas",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1603,
+            12633,
+            53516,
+            87927,
+            157991
+          ]
+        },
+        {
+          "fact": "blogger",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1646,
+            103957,
+            105730,
+            106412,
+            155705
+          ]
+        },
+        {
+          "fact": "weightlifter",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            1925,
+            155252
+          ]
+        },
+        {
+          "fact": "social worker",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            2025,
+            3584,
+            9126,
+            81826,
+            107853,
+            184328,
+            184786
+          ]
+        },
+        {
+          "fact": "chef and a student",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            2075,
+            150068
+          ]
+        },
+        {
+          "fact": "dog groomer",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            2099,
+            136409,
+            144412
+          ]
+        },
+        {
+          "fact": "vet student",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            2161,
+            25560,
+            48873,
+            93085,
+            142685
+          ]
+        },
+        {
+          "fact": "gummy worm maker",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            2263,
+            40354,
+            98462,
+            142945,
+            188432
+          ]
+        },
+        {
+          "fact": "personal trainer",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            2354,
+            3608,
+            15959,
+            28470,
+            29871,
+            34587,
+            70148,
+            74295,
+            86698,
+            88340
+          ]
+        },
+        {
+          "fact": "software engineer",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            2538,
+            7379,
+            10014,
+            10153,
+            13279,
+            13688,
+            14657,
+            15916,
+            18325,
+            19510
+          ]
+        },
+        {
+          "fact": "teacher",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            2817,
+            3662,
+            4316,
+            7803,
+            8214,
+            8310,
+            10838,
+            11503,
+            12532,
+            13341
+          ]
+        },
+        {
+          "fact": "little nervous but also excited",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            2914,
+            144021
+          ]
+        },
+        {
+          "fact": "big fan of classic rock",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            3105,
+            69679,
+            96845
+          ]
+        },
+        {
+          "fact": "lawyer",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            3302,
+            15672,
+            26774,
+            31677,
+            42835,
+            47072,
+            66855,
+            83327,
+            99948,
+            129130
+          ]
+        },
+        {
+          "fact": "ben",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            3338,
+            88122
+          ]
+        },
+        {
+          "fact": "a candy store",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            3452,
+            154127
+          ]
+        },
+        {
+          "fact": "single mom",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            3970,
+            18809,
+            30333,
+            64270
+          ]
+        },
+        {
+          "fact": "jason",
+          "confidence": 0.98,
+          "evidence_msg_ids": [
+            4005
+          ]
+        }
+      ],
+      "personality_traits": [
+        {
+          "trait": "supportive",
+          "confidence": 0.9,
+          "evidence_msg_ids": [
+            2,
+            14,
+            24,
+            30,
+            44,
+            64,
+            68,
+            110,
+            125,
+            137
+          ]
+        },
+        {
+          "trait": "enthusiastic",
+          "confidence": 0.88,
+          "evidence_msg_ids": [
+            137,
+            309,
+            325,
+            421,
+            423,
+            584,
+            641,
+            643,
+            695,
+            697
+          ]
+        }
+      ],
+      "communication_style": {
+        "avg_length": "short-medium",
+        "tone": [
+          "energetic"
+        ],
+        "emoji_usage": "low",
+        "evidence_msg_ids": [
+          2,
+          4,
+          6,
+          12,
+          14,
+          16,
+          18,
+          24,
+          26,
+          30,
+          36,
+          44,
+          46,
+          48,
+          50,
+          52,
+          54,
+          56,
+          58,
+          62
+        ]
+      },
+      "method": {
+        "approach": "candidate-then-verify",
+        "rules": [
+          "Keep persona entries that repeat across messages or have high explicit confidence",
+          "Each persona item must include evidence_msg_ids",
+          "Only messages from User 2 are used for persona extraction"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "total_messages": 191592,
+  "total_topics": 11912,
+  "total_checkpoints_100": 1916,
+  "total_chunks": 32022,
+  "total_facts": 6526,
+  "source_csv": "conversations.csv",
+  "persona_default_speaker": "User 1",
+  "persona_speakers": [
+    "User 1",
+    "User 2"
+  ],
+  "retrieval_index": "sparse-tfidf-v1"
+}

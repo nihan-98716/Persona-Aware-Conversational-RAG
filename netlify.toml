@@ -1,0 +1,18 @@
+[build]
+  publish = "app"
+  functions = "app/netlify/functions"
+
+[functions]
+  included_files = [
+    "app/data/topics.json",
+    "app/data/checkpoints_100.json",
+    "app/data/chunks.json",
+    "app/data/facts.json",
+    "app/data/persona.json",
+    "app/data/meta.json",
+    "app/data/indexes/topic_to_chunks.json",
+    "app/data/indexes/topic_tfidf.json",
+    "app/data/indexes/chunk_tfidf.json",
+    "app/data/indexes/checkpoint_tfidf.json"
+  ]
+

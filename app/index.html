@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#18181B" />
+    <title>Persona-Aware Conversational RAG</title>
+    <link rel="stylesheet" href="/src/styles.css" />
+  </head>
+  <body>
+    <div class="bg-glow"></div>
+    <main class="container animate-in">
+      <header class="glass-card hero">
+        <p class="badge">Persona-aware RAG</p>
+        <h1>Conversation Intelligence Assistant</h1>
+        <p class="sub">
+          Ask: “What kind of person is this user?”, “What are their habits?”, or “How do they talk?”
+        </p>
+      </header>
+      <form id="chat-form" class="glass-card query-form">
+        <input id="query" type="text" placeholder="Ask anything about persona or conversation history..." required />
+        <select id="persona-speaker" aria-label="Persona speaker">
+          <option value="User 1">Persona: User 1</option>
+          <option value="User 2">Persona: User 2</option>
+        </select>
+        <button type="submit">Ask</button>
+      </form>
+      <section id="result"></section>
+    </main>
+    <script src="/src/app.js" defer></script>
+  </body>
+</html>
+

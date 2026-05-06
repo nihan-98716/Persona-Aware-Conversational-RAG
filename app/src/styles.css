@@ -1,0 +1,169 @@
+:root {
+  color-scheme: dark;
+  --brand: #8251ee;
+  --brand-hover: #9366f5;
+  --bg-1: hsl(240, 6%, 10%);
+  --bg-2: hsl(240, 5%, 12%);
+  --bg-3: hsl(240, 5%, 14%);
+  --text-primary: #ffffff;
+  --text-secondary: #a1a1aa;
+  --border: hsla(0, 0%, 100%, 0.12);
+  --border-subtle: hsla(0, 0%, 100%, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", Inter, Arial, sans-serif;
+  background: radial-gradient(circle at 12% 16%, rgba(130, 81, 238, 0.2), transparent 35%), var(--bg-1);
+  color: var(--text-primary);
+  min-height: 100vh;
+}
+
+.bg-glow {
+  position: fixed;
+  inset: auto -10rem -12rem auto;
+  width: 26rem;
+  height: 26rem;
+  border-radius: 50%;
+  background: rgba(130, 81, 238, 0.14);
+  filter: blur(60px);
+  pointer-events: none;
+}
+
+.container {
+  max-width: 980px;
+  margin: 2.5rem auto;
+  padding: 0 1rem 2rem;
+}
+
+.glass-card {
+  backdrop-filter: blur(14px);
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--border-subtle);
+  border-radius: 1rem;
+}
+
+.hero {
+  padding: 1.25rem;
+}
+
+.badge {
+  margin: 0 0 0.75rem;
+  display: inline-block;
+  padding: 0.25rem 0.6rem;
+  border-radius: 999px;
+  background: rgba(130, 81, 238, 0.15);
+  color: #cdb9ff;
+  font-size: 0.8rem;
+}
+
+h1 {
+  margin: 0 0 0.5rem;
+  font-size: 1.65rem;
+}
+
+.sub {
+  margin: 0;
+  color: var(--text-secondary);
+}
+
+.query-form {
+  display: flex;
+  gap: 0.75rem;
+  margin: 1rem 0;
+  padding: 0.9rem;
+}
+
+input,
+select {
+  flex: 1;
+  min-height: 44px;
+  padding: 0.75rem 0.85rem;
+  border-radius: 0.65rem;
+  border: 1px solid var(--border);
+  background: var(--bg-2);
+  color: var(--text-primary);
+  transition: border-color 180ms ease, background 180ms ease;
+}
+
+input:focus-visible,
+select:focus-visible {
+  outline: none;
+  border-color: var(--brand);
+  background: var(--bg-3);
+}
+
+select {
+  max-width: 180px;
+}
+
+button {
+  min-height: 44px;
+  padding: 0.75rem 1rem;
+  border-radius: 0.65rem;
+  border: none;
+  background: var(--brand);
+  color: #fff;
+  cursor: pointer;
+  transition: transform 120ms ease, background 180ms ease;
+}
+
+button:hover {
+  background: var(--brand-hover);
+}
+
+button:active {
+  transform: translateY(1px);
+}
+
+.card {
+  border-radius: 1rem;
+  padding: 1rem;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid var(--border-subtle);
+  animation: slideUp 220ms ease-out;
+}
+
+.card.error {
+  border-color: #ef4444;
+}
+
+.card h2 {
+  margin: 0 0 0.75rem;
+}
+
+pre {
+  margin-top: 0;
+  white-space: pre-wrap;
+  line-height: 1.45;
+  color: #dce0eb;
+}
+
+.animate-in {
+  animation: fadeIn 260ms ease-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+

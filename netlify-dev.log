@@ -1,0 +1,14 @@
+⬥ Injecting environment variable values for all scopes
+⬥ No app server detected. Using simple static server
+⬥ Running static server from "Persona-Aware Conversational RAG\app"
+⬥ Setting up local dev server
+
+⬥ Static server listening to 3999
+⬥ Loaded function chat
+
+   ╭─────────────────────── ⬥  ────────────────────────╮
+   │                                                   │
+   │   Local dev server ready: http://localhost:8888   │
+   │                                                   │
+   ╰───────────────────────────────────────────────────╯
+
